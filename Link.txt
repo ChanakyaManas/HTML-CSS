@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Pinterest</title>
+</head>
+<body>
+<p>Pinterest link given below</p>
+<a href="https://in.pinterest.com">Pinterest</a>
+</body>
+</html>

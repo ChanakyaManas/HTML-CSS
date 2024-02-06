@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>
+</title>
+<style>
+h1
+{
+color:red;
+font-family:verdana;
+font-size:300%;
+Border:6px Solid blue;
+padding:30px;
+}
+p
+{
+color:Green;
+font-family:courier;
+Background-Color:Black;
+font-size:160%;
+border:70px RGB(34,45,67);
+padding:35px;
+margin:20px
+}
+</style>
+</head>
+<body>
+<h1>This is Heading</h1>
+<p>This is a Paragraph</p>
+</body>
+</html>

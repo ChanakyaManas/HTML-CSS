@@ -1,0 +1,34 @@
+<html>
+<head>
+    <style>
+        *{
+            box-sizing: border-box;
+        }
+        .box{
+            float: left;
+            padding: 50px;
+            width: 24%;
+        }
+        .clearfix:after{
+            content: "";
+            clear: both;
+            display: table;
+        }
+    </style>
+    </head>
+    <body>
+    <h2>Grid of Boxes</h2>
+    <p>Float boxes side by side:</p>
+    <div class="clearfix">
+        <div class="box" style="background-color: green">
+        <p>Go</p>
+        </div>
+        <div class="box" style="background-color: yellow">
+        <p>Wait</p>
+        </div>
+        <div class="box" style="background-color: red">
+        <p>STOP</p>
+        </div>
+        </div>
+    </body>
+</html>

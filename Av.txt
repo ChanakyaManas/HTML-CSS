@@ -1,0 +1,24 @@
+<img src="https://moviedash.com/wp-content/uploads/2018/05/Avengers-Infinity-War-2018-after-credits-hq.jpg">usemap="#Avengers"
+<map name="Avengers">
+ <area target="_self" alt="IronMan" title="Ironman" href="https://www.baltana.com/files/wallpapers-2/Ironman-Desktop-Wallpaper-06136.jpg" coords="881,100,1044,310" shape="rect">;
+<area target="" alt="Captain America" title="Captain America" href="" coords="689,246,832,420" shape="rect">
+    <area target="" alt="Thor" title="Thor" href="" coords="1102,224,1258,451" shape="rect">
+    <area target="" alt="STARLORD" title="STARLORD" href="" coords="1298,334,1417,517" shape="rect">
+    <area target="" alt="Black Widow" title="Black Widow" href="" coords="869,415,1049,615" shape="rect">
+    <area target="" alt="Gamora" title="Gamora" href="" coords="1309,519,1427,646" shape="rect">
+    <area target="" alt="HULK" title="HULK" href="" coords="442,554,533,671" shape="rect">
+    <area target="" alt="Black Panther" title="Black Panther" href="" coords="496,319,642,507" shape="rect">
+    <area target="" alt="Winter Soldier" title="Winter Soldier" href="" coords="244,648,320,734" shape="rect">
+    <area target="" alt="Spiderman" title="Spiderman" href="" coords="934,662,1027,773" shape="rect">
+    <area target="" alt="Rohdey_WAR-Machine" title="Rohdey_WAR-Machine" href="" coords="1560,524,1636,634" shape="rect">
+    <area target="" alt="GROOT" title="GROOT" href="" coords="1178,576,1266,709" shape="rect">
+    <area target="" alt="Mantis(Antena girl)" title="Mantis(Antena girl)" href="" coords="1463,590,1534,697" shape="rect">
+    <area target="" alt="Drax" title="Drax" href="" coords="1751,617,1822,727" shape="rect">
+    <area target="" alt="Rocket" title="Rocket" href="" coords="1714,732,1848,855" shape="rect">
+    <area target="" alt="SAM" title="SAM" href="" coords="221,446,318,524" shape="rect">
+    <area target="" alt="Doctor-Strange" title="Doctor-Strange" href="" coords="1436,0,1571,98" shape="rect">
+    <area target="" alt="Wanda" title="Wanda" href="" coords="388,22,481,115" shape="rect">
+    <area target="" alt="Nebula" title="Nebula" href="" coords="432,315,488,420" shape="rect">
+    <area target="" alt="Shuri(Sis)" title="Shuri(Sis)" href="" coords="598,519,678,639" shape="rect">
+    <area target="" alt="Okoye" title="Okoye" href="" coords="688,482,788,615" shape="rect">
+</a>

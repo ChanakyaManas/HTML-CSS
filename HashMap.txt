@@ -1,0 +1,67 @@
+package Maps;
+
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.Set;
+
+import SET.Emp;
+
+public class HashMaps {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+HashMap<Emp, Integer>h=new HashMap();
+h.put(new Emp(1, "Chanakya", 20030), 5);
+h.put(new Emp(2, "Ravi", 23430), 7);
+h.put(new Emp(3, "Raju", 25630), 8);
+h.put(new Emp(4, "Ram", 23430), 9);
+h.put(new Emp(3, "Raju", 25630), 10);
+h.put(null, null);
+h.put(null, 34);
+
+System.out.println("------KEY SET------");
+Set<Emp>s=h.keySet();
+System.out.println(s);
+System.out.println("-----FOR-EACH----------------");
+for(Emp s1:h.keySet()) {
+	System.out.println(s1);
+}
+System.out.println("-----KEY-ITERATOR-----------");
+Iterator I=s.iterator();
+while(I.hasNext()) {
+	System.out.println(I.next());
+}
+System.out.println("-------------------------------------------------");
+
+
+
+System.out.println("----------Entry-SET-------------");
+	Set<Map.Entry<Emp, Integer>>e=h.entrySet();	
+System.out.println(e);
+System.out.println("-----------EntrySET--FOR-EACH---------");
+for(Map.Entry<Emp, Integer>e1:h.entrySet()) {
+	System.out.println(e1);
+}
+System.out.println("----------------ENTRY-SET-Iterator----------------");
+Iterator i=e.iterator();
+while(i.hasNext()) {	
+System.out.println(i.next());
+}	
+System.out.println("--------VALUE-SET----------");
+Collection V=h.values();
+System.out.println(V);
+System.out.println("------Values For Loop------------");
+for(Integer v:h.values()) {
+	System.out.println(v);
+}
+System.out.println("------Values-Iterator-------");
+Iterator i1=V.iterator();
+while(i1.hasNext()) {
+	System.out.println(i1.next());
+}
+	}
+
+}

@@ -1,0 +1,27 @@
+<html>
+<head>
+    <style>
+        .class{
+            font-family: cursive;
+        }
+        .text{
+            color:brown;
+        }
+    </style>
+</head>
+    <body>
+        <button onclick="myFunction()">Hide Capitals</button>
+    <h2 class="city">NOC</h2>
+        <p>There is <span class="text">No</span> Capital for AP</p>
+    <h2 class="city">Hyderabad</h2>
+        <p><span class="text">Hyderabad</span> is Capital for TS</p>    
+    <script>
+        function myFunction(){
+            var h=document.getElementsByClassName("city");
+            for(var i=0;i<h.length;i++){
+                h[i].style.display="none";
+            }
+        }
+</script>    
+</body>
+</html>

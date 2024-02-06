@@ -1,0 +1,39 @@
+<html>
+<head>
+<style>
+body{
+align:center
+}
+</style>
+</head>
+<Body>
+<img src="wildlife-india-900x600 (1).jpg" usemap="#image-map">
+<h2 style>Endangered Species</h2>
+<map name="image-map">
+    <area target="_top" alt="Cheetah Img" title="Cheetah Img" href="https://img.freepik.com/free-photo/majestic-cheetah-staring-into-sunset-beauty-generated-by-ai_188544-34630.jpg" coords="100,146,12,12" shape="rect">
+    <area target="_blank" alt="Cheetah-Data" title="Cheetah-Data" href="https://en.wikipedia.org/wiki/Cheetah" coords="221,11,99,145" shape="rect">
+    <area target="_self" alt="Rino Img" title="Rino Img" href="https://img.freepik.com/premium-photo/rhino-rhinoceros-closeup-front-view-generative-ai_851708-354.jpg?w=740" coords="235,13,341,146" shape="rect">
+    <area target="_blank" alt="Rino-Data" title="Rino-Data" href="https://en.wikipedia.org/wiki/Rhinoceros" coords="444,10,341,143" shape="rect">
+    <area target="_top" alt="Sarus-Img" title="Sarus-Img" href="https://myphotoblogs.com/wp-content/uploads/2020/08/Sarus-Crane-14-scaled.jpg" coords="458,12,566,147" shape="rect">
+    <area target="_blank" alt="Crane-Data" title="Sarus-Data" href="https://en.wikipedia.org/wiki/Sarus_crane" coords="666,146,568,11" shape="rect">
+    <area target="_self" alt="Elephant-Img" title="Elephant-Img" href="https://i.pinimg.com/736x/60/76/7b/60767b5812572aaba20fa18a3b5dfa47.jpg" coords="677,10,783,150" shape="rect">
+    <area target="_blank" alt="Elephant-Data" title="Elephant-Data" href="https://en.wikipedia.org/wiki/Elephant" coords="888,10,782,146" shape="rect">
+    <area target="_top" alt="Peacock-Img" title="Peacock-Img" href="https://png.pngtree.com/background/20230424/original/pngtree-peacock-standing-in-the-tropical-forest-picture-image_2455950.jpg" coords="11,160,117,292" shape="rect">
+    <area target="_blank" alt="Peacock-Data" title="Peacock-Data" href="https://en.wikipedia.org/wiki/Peafowl" coords="224,293,118,161" shape="rect">
+    <area target="_self" alt="Mammal-Img" title="Mammal-Img" href="https://www.planetcustodian.com/wp-content/uploads/2021/05/Endangered-animal-species-4.jpg" coords="11,306,112,438" shape="rect">
+    <area target="_blank" alt="Mammal-Data" title="Mammal-Data" href="https://en.wikipedia.org/wiki/Mammal" coords="224,440,112,306" shape="rect">
+    <area target="_self" alt="Antipole-IMG" title="Antelope Bulls-IMG" href="https://animals.sandiegozoo.org/sites/default/files/2016-09/animals_hero_spiral_horned.jpg" coords="12,453,111,588" shape="rect">
+    <area target="_blank" alt="Antipole-Data" title="Antelope Bulls-Data" href="https://en.wikipedia.org/wiki/Antelope" coords="114,453,222,587" shape="rect">
+    <area target="_self" alt="Horse-IMG" title="Horse-IMG" href="https://www.rgo.ru/sites/default/files/styles/headimage/public/loshad_przhevalsko111go.jpg?itok=_5z8jZH5" coords="236,452,333,586" shape="rect">
+    <area target="_blank" alt="Horse-Data" title="Horse-Data" href="https://en.wikipedia.org/wiki/Horse" coords="446,589,334,451" shape="rect">
+    <area target="_self" alt="Deer-IMG" title="Deer-IMG" href="https://4.bp.blogspot.com/-LmxfNDZYMec/VGxArUhNEUI/AAAAAAAADcs/sC3hQ4dIosY/s1600/Spotted%2BDeer%2BJinka.jpg" coords="456,450,568,589" shape="rect">
+    <area target="_blank" alt="Deer-Data" title="Deer-Data" https://en.wikipedia.org/wiki/Deer coords="669,589,567,449" shape="rect">
+    <area target="_self" alt="Lioness-Img" title="Lioness-Img" href="" coords="680,450,786,587" shape="rect">
+    <area target="_blank" alt="Lioness-Data" title="Lioness-Data" href="" coords="888,586,784,446" shape="rect">
+    <area target="_self" alt="Deer-IMg" title="Deer-IMg" href="https://4.bp.blogspot.com/-LmxfNDZYMec/VGxArUhNEUI/AAAAAAAADcs/sC3hQ4dIosY/s1600/Spotted%2BDeer%2BJinka.jpg" coords="676,306,783,440" shape="rect">
+    <area target="_blank" alt="Deer-Data" title="Deer-Data" https://en.wikipedia.org/wiki/Deer coords="890,438,785,306" shape="rect">
+    <area target="_self" alt="Crane-Img" title="Crane-Img" href="https://s28164.pcdn.co/files/Whooping-Crane-reflections.jpg" coords="677,161,791,297" shape="rect">
+    <area target="_blank" alt="Crane-Data" title="Crane-Data" href="https://en.wikipedia.org/wiki/Crane_(bird)" coords="887,290,789,159" shape="rect">
+    <area target="_self" alt="Tiger-Img" title="Tiger-Img" href="https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2017/11/30/1044341-1965444265.jpg?itok=4hmGjkcw" coords="235,161,448,436" shape="rect">
+    <area target="_blank" alt="Tiger-Data" title="Tiger-Data" href="https://en.wikipedia.org/wiki/Tiger" coords="664,441,447,161" shape="rect">
+</map>
